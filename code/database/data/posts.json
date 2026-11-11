@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Bắt đầu với Laravel trong 30 phút",
+    "category": "Công nghệ",
+    "tags": [
+      "Laravel",
+      "PHP",
+      "Hướng dẫn"
+    ],
+    "status": "published",
+    "days": 1,
+    "body": "Laravel là framework PHP phổ biến nhờ cú pháp gọn gàng và hệ sinh thái phong phú. Bài viết này đi qua các bước cài đặt, tạo route đầu tiên và kết nối cơ sở dữ liệu.\n\nSau khi hoàn thành bạn sẽ có một ứng dụng nhỏ chạy được trên máy của mình."
+  },
+  {
+    "title": "Eloquent ORM: quan hệ một-nhiều và nhiều-nhiều",
+    "category": "Công nghệ",
+    "tags": [
+      "Laravel",
+      "MySQL",
+      "Lập trình"
+    ],
+    "status": "published",
+    "days": 2,
+    "body": "Eloquent giúp bạn thao tác với cơ sở dữ liệu bằng các model thay vì viết SQL thủ công. Quan hệ hasMany và belongsToMany là hai quan hệ được dùng nhiều nhất.\n\nHãy dùng eager loading để tránh lỗi truy vấn N+1 khi hiển thị danh sách."
+  },
+  {
+    "title": "5 mẹo tối ưu truy vấn MySQL cho người mới",
+    "category": "Công nghệ",
+    "tags": [
+      "MySQL",
+      "Mẹo hay"
+    ],
+    "status": "published",
+    "days": 3,
+    "body": "Đánh index đúng cột, tránh SELECT *, và đọc kết quả EXPLAIN là ba thói quen giúp truy vấn nhanh hơn rõ rệt.\n\nĐừng tối ưu sớm: hãy đo trước, sau đó mới sửa phần chậm nhất."
+  },
+  {
+    "title": "Cách xây dựng thói quen đọc sách mỗi ngày",
+    "category": "Đời sống",
+    "tags": [
+      "Mẹo hay"
+    ],
+    "status": "published",
+    "days": 4,
+    "body": "Bắt đầu bằng mười trang mỗi ngày thay vì cố đọc cả chương. Đặt sách ở nơi dễ thấy và gắn việc đọc với một thói quen có sẵn như uống cà phê buổi sáng.\n\nSau một tháng, bạn sẽ ngạc nhiên về số sách đã đọc xong."
+  },
+  {
+    "title": "Kinh nghiệm dọn nhà gọn gàng theo phong cách tối giản",
+    "category": "Đời sống",
+    "tags": [
+      "Hướng dẫn",
+      "Mẹo hay"
+    ],
+    "status": "published",
+    "days": 5,
+    "body": "Chia việc dọn dẹp theo từng khu vực nhỏ: ngăn kéo, tủ quần áo, bàn làm việc. Mỗi món đồ hãy tự hỏi: mình có thật sự dùng nó trong ba tháng qua không?\n\nNhà gọn hơn cũng giúp đầu óc nhẹ nhàng hơn."
+  },
+  {
+    "title": "Du lịch Hà Giang mùa hoa tam giác mạch",
+    "category": "Du lịch",
+    "tags": [
+      "Review",
+      "Tin tức"
+    ],
+    "status": "published",
+    "days": 6,
+    "body": "Cuối thu là thời điểm những cánh đồng tam giác mạch nở rộ trên cao nguyên đá. Cung đường Hà Giang – Đồng Văn – Mã Pí Lèng luôn khiến du khách say mê.\n\nNên đi theo nhóm nhỏ và đặt homestay sớm vì mùa hoa rất đông khách."
+  },
+  {
+    "title": "Ba ngày khám phá Đà Nẵng và Hội An",
+    "category": "Du lịch",
+    "tags": [
+      "Review",
+      "Hướng dẫn"
+    ],
+    "status": "published",
+    "days": 7,
+    "body": "Ngày đầu dạo biển Mỹ Khê và Bà Nà Hills, ngày hai đến phố cổ Hội An, ngày ba thử các món ăn đường phố.\n\nMùa khô từ tháng hai đến tháng năm là thời gian thuận lợi nhất để đi."
+  },
+  {
+    "title": "Công thức nấu phở bò tại nhà",
+    "category": "Ẩm thực",
+    "tags": [
+      "Hướng dẫn"
+    ],
+    "status": "published",
+    "days": 8,
+    "body": "Nước dùng ngon đến từ xương bò hầm lâu, hành gừng nướng thơm và các loại gia vị như quế, hồi, thảo quả.\n\nHầm nhỏ lửa ít nhất sáu tiếng và thường xuyên vớt bọt để nước trong."
+  },
+  {
+    "title": "Review quán cà phê làm việc yên tĩnh ở Hà Nội",
+    "category": "Ẩm thực",
+    "tags": [
+      "Review"
+    ],
+    "status": "published",
+    "days": 9,
+    "body": "Quán có wifi ổn định, ổ cắm ở nhiều bàn và âm nhạc nhẹ nhàng, phù hợp cho người cần tập trung làm việc.\n\nGiá đồ uống ở mức trung bình, nên đến trước 9 giờ sáng để có chỗ ngồi đẹp."
+  },
+  {
+    "title": "Phương pháp học tiếng Anh hiệu quả với 20 phút mỗi ngày",
+    "category": "Giáo dục",
+    "tags": [
+      "Mẹo hay",
+      "Hướng dẫn"
+    ],
+    "status": "published",
+    "days": 10,
+    "body": "Kết hợp nghe podcast, ghi lại từ mới và nói lại câu mình vừa nghe. Sự đều đặn quan trọng hơn thời lượng.\n\nHãy chọn tài liệu bạn thật sự thấy hứng thú để duy trì được lâu."
+  },
+  {
+    "title": "Lập trình web có cần giỏi toán không?",
+    "category": "Giáo dục",
+    "tags": [
+      "Lập trình",
+      "Tin tức"
+    ],
+    "status": "published",
+    "days": 11,
+    "body": "Với phần lớn công việc phát triển web, bạn chỉ cần tư duy logic và toán cơ bản. Toán cao cấp chỉ cần khi làm việc với đồ họa hoặc học máy.\n\nĐiều quan trọng hơn là khả năng chia nhỏ vấn đề và kiên trì tìm lỗi."
+  },
+  {
+    "title": "Giới thiệu Task Scheduling và Queue trong Laravel",
+    "category": "Công nghệ",
+    "tags": [
+      "Laravel",
+      "PHP",
+      "Lập trình"
+    ],
+    "status": "published",
+    "days": 12,
+    "body": "Task Scheduling cho phép khai báo công việc định kỳ ngay trong code, chỉ cần một dòng cron duy nhất trên máy chủ. Queue giúp đẩy việc nặng như gửi email ra nền để trang web phản hồi nhanh.\n\nHai tính năng này kết hợp tạo nên một hệ thống ổn định."
+  },
+  {
+    "title": "Bài viết nháp: kế hoạch du lịch cuối năm",
+    "category": "Du lịch",
+    "tags": [
+      "Tin tức"
+    ],
+    "status": "draft",
+    "days": 0,
+    "body": "Đây là bản nháp, danh sách địa điểm vẫn đang được cập nhật."
+  },
+  {
+    "title": "Bài nháp: ghi chú về Laravel 13",
+    "category": "Công nghệ",
+    "tags": [
+      "Laravel"
+    ],
+    "status": "draft",
+    "days": 0,
+    "body": "Ghi chú nhanh các thay đổi cần tìm hiểu, chưa hoàn thiện."
+  },
+  {
+    "title": "Bài hẹn giờ: tổng kết năm của blog",
+    "category": "Đời sống",
+    "tags": [
+      "Tin tức"
+    ],
+    "status": "scheduled",
+    "days": 3,
+    "body": "Bài viết này sẽ tự động được đăng khi đến thời điểm đã hẹn nhờ Task Scheduling."
+  }
+]
